@@ -7,6 +7,6 @@ description: > Program for one month tutorial
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  EnriqueCesena # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 
 theme: minima
